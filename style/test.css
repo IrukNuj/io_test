@@ -47,10 +47,10 @@ html, body {
   background-size: cover;
   background-position: center;
 }
-.images .image:nth-child(1):after { background-image: url(うに/1.jpg); }
-.images .image:nth-child(2):after { background-image: url(うに/2.jpg); }
-.images .image:nth-child(3):after { background-image: url(うに/3.jpg); }
-.images .image:nth-child(4):after { background-image: url(うに/4.jpg); }
+.images .image:nth-child(1):after { background-image: url(uni/1.jpg); }
+.images .image:nth-child(2):after { background-image: url(uni/2.jpg); }
+.images .image:nth-child(3):after { background-image: url(uni/3.jpg); }
+.images .image:nth-child(4):after { background-image: url(uni/4.jpg); }
 
 
 /*** 画面表示のアニメーション ***/
